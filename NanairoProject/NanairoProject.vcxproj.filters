@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\Default">
+      <UniqueIdentifier>{dd2b84e9-8404-4269-bc5e-ca33b32167c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Default">
+      <UniqueIdentifier>{592f1d86-9fea-4065-b862-42be7c1c860c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Default\Effekseer">
+      <UniqueIdentifier>{0b6c052d-c77d-47d4-bb54-e2bee53de381}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Default\List">
+      <UniqueIdentifier>{d7a5cae3-6500-41f7-9def-bdee60b99d02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Default\Parts">
+      <UniqueIdentifier>{bf9fa683-9027-4765-8c82-1f1a6d4e6ec2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Default\Effekseer">
+      <UniqueIdentifier>{eeb672e1-f16e-4f27-854a-8b28310a894f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Default\List">
+      <UniqueIdentifier>{e5bd398c-a3b5-4e0d-8483-a37fee145e54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Default\Parts">
+      <UniqueIdentifier>{848bc9d6-67a9-421c-8738-0238b4fb5b84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Default\Resource">
+      <UniqueIdentifier>{8cc52580-2185-4831-883b-97764b70814a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Default\Scene">
+      <UniqueIdentifier>{8f78303f-a7f7-45a3-b3dc-bb91cb55aeac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Default\Resource">
+      <UniqueIdentifier>{26e15e8d-bc6d-4a1c-a908-036bbd3b37c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Default\Scene">
+      <UniqueIdentifier>{63479200-a1c9-41c8-aed1-73d1340072a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game">
+      <UniqueIdentifier>{e98386e2-2dc0-48ab-9381-a7933a64a7cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Game">
+      <UniqueIdentifier>{e8b0d968-cbc4-4ba4-8e53-91b828e049ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game\Scene">
+      <UniqueIdentifier>{2d2251c9-58eb-419d-ba77-4b6c5e47c8f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game\Scene\ChangeScene">
+      <UniqueIdentifier>{19bb2fe0-81d1-48cf-9b43-f8249dbd9ae6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game\Scene\LoaderScene">
+      <UniqueIdentifier>{c6c79131-cdb2-4f6c-8f99-114790e9da1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game\Scene\TittleScene">
+      <UniqueIdentifier>{b2087f6a-de23-4c15-8caa-70ebd8504a59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Game\Scene">
+      <UniqueIdentifier>{85a778af-ef2e-48f1-bce9-b364a1aa816e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Game\Scene\ChangeScene">
+      <UniqueIdentifier>{b516c915-a754-4cf2-b997-fbb6a99b0a00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Game\Scene\LoaderScene">
+      <UniqueIdentifier>{a8e8b4f2-cd6e-4300-bcf0-b1d5ec62b815}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Game\Scene\PE_the_match">
+      <UniqueIdentifier>{bb22aa07-b5e3-4145-80fa-0606ee6aabdf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Game\Scene\TittleScene">
+      <UniqueIdentifier>{3a99a825-bf8c-4564-b81b-677f64b5254e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Game\Accessory">
+      <UniqueIdentifier>{96e0fe1a-ca53-481e-95db-a925d995abd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game\Accessory">
+      <UniqueIdentifier>{6568ea27-a796-408a-8e68-65bdc4d4317f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game\Effect">
+      <UniqueIdentifier>{6a8c7fe8-e2b5-4b0d-9899-1f54e183acc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Game\Effect">
+      <UniqueIdentifier>{9603be86-507a-49aa-93c5-c995c537e1f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game\Judgements">
+      <UniqueIdentifier>{5abf6982-9407-4cb7-95bf-a3aee14e319f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game\Scene\Game">
+      <UniqueIdentifier>{7ece2b1b-270f-47ca-b9bf-e8e1a7193aab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game\Scene\Game\PE_the_match">
+      <UniqueIdentifier>{56ff11c6-64e3-43b7-809f-26534de0d1c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game\Scene\RoomScene">
+      <UniqueIdentifier>{f6847fba-e609-4b5d-8326-9d99db833a01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Game\Scene\RoomScene">
+      <UniqueIdentifier>{fa0fe25c-095f-4b0b-b725-90e6a9b5083b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Default\Effect">
+      <UniqueIdentifier>{cbb6aba4-9524-48d5-b2aa-ae732c94d7b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game\Effect\Plate">
+      <UniqueIdentifier>{a8273add-d3de-49fc-b919-a5ca108316d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Default\Effect">
+      <UniqueIdentifier>{ca6b7142-3405-445f-8f9b-5bf8088916dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game\Scene\RoomScene\Room">
+      <UniqueIdentifier>{5e233c71-681b-4e59-8556-baab06f40d5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Game\Scene\RoomScene\RoomDialog">
+      <UniqueIdentifier>{bf1eb61c-7d8a-4b5b-a069-fa080c37b65c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Default\SockPG">
+      <UniqueIdentifier>{4b5dd0e1-013d-4565-b9e3-465ffe90b04c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Default\SockPG">
+      <UniqueIdentifier>{a4a26933-692c-437e-ab1a-a1182a645246}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Default\main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\EffekActioner.cpp">
+      <Filter>ソース ファイル\Default\Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\SuperDialog.cpp">
+      <Filter>ソース ファイル\Default\Parts</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\OnceWord.cpp">
+      <Filter>ソース ファイル\Default\Parts</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\BackGround.cpp">
+      <Filter>ソース ファイル\Default\Parts</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\GraphMethod.cpp">
+      <Filter>ソース ファイル\Default\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\RoaderFile.cpp">
+      <Filter>ソース ファイル\Default\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\ModelMethod.cpp">
+      <Filter>ソース ファイル\Default\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\ResourceLoad.cpp">
+      <Filter>ソース ファイル\Default\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\SceneMethod.cpp">
+      <Filter>ソース ファイル\Default\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\LoadingScene.cpp">
+      <Filter>ソース ファイル\Game\Scene\LoaderScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ChangeScene.cpp">
+      <Filter>ソース ファイル\Game\Scene\ChangeScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\TittleScene.cpp">
+      <Filter>ソース ファイル\Game\Scene\TittleScene</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\PE_the_matchScene.cpp">
+      <Filter>ソース ファイル\Game\Scene\Game\PE_the_match</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ShaderTest.cpp">
+      <Filter>ソース ファイル\Game\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\TrumpCard.cpp">
+      <Filter>ソース ファイル\Game\Accessory</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GestChara.cpp">
+      <Filter>ソース ファイル\Game\Accessory</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Rule_effect.cpp">
+      <Filter>ソース ファイル\Game\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Rule_anime.cpp">
+      <Filter>ソース ファイル\Game\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\EnemyAI.cpp">
+      <Filter>ソース ファイル\Game\Accessory</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Judgement.cpp">
+      <Filter>ソース ファイル\Game\Judgements</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\JudgementCode.cpp">
+      <Filter>ソース ファイル\Game\Judgements</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\throwJudgement.cpp">
+      <Filter>ソース ファイル\Game\Judgements</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\RunkEffect.cpp">
+      <Filter>ソース ファイル\Game\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ScoreMap.cpp">
+      <Filter>ソース ファイル\Game\Accessory</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameScene.cpp">
+      <Filter>ソース ファイル\Game\Scene\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\SuperScene.cpp">
+      <Filter>ソース ファイル\Default\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\OficalDialog.cpp">
+      <Filter>ソース ファイル\Default\Parts</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\OBjectList.cpp">
+      <Filter>ソース ファイル\Default\List</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\PlateEffect.cpp">
+      <Filter>ソース ファイル\Game\Effect\Plate</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\PlayerPlate.cpp">
+      <Filter>ソース ファイル\Game\Effect\Plate</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\UseEffect.cpp">
+      <Filter>ソース ファイル\Default\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\AnimationEffect2D.cpp">
+      <Filter>ソース ファイル\Default\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\LoaderList.cpp">
+      <Filter>ソース ファイル\Default\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\CharaSelectRoom.cpp">
+      <Filter>ソース ファイル\Game\Scene\RoomScene\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\RoomScene.cpp">
+      <Filter>ソース ファイル\Game\Scene\RoomScene\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\OftenUseDialog.cpp">
+      <Filter>ソース ファイル\Game\Scene\RoomScene\RoomDialog</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\PlayerMapControl.cpp">
+      <Filter>ソース ファイル\Game\Scene\RoomScene\RoomDialog</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\SelectRoomDialog.cpp">
+      <Filter>ソース ファイル\Game\Scene\RoomScene\RoomDialog</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\NetworkRoom.cpp">
+      <Filter>ソース ファイル\Game\Scene\RoomScene\Room</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\SockPG\MyClient.cpp">
+      <Filter>ソース ファイル\Default\SockPG</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\SockPG\MyServer.cpp">
+      <Filter>ソース ファイル\Default\SockPG</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\SockPG\WinsockTCP.cpp">
+      <Filter>ソース ファイル\Default\SockPG</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\SpecialAction.cpp">
+      <Filter>ソース ファイル\Game\Judgements</Filter>
+    </ClCompile>
+    <ClCompile Include="Default\TemplateEffectList.cpp">
+      <Filter>ソース ファイル\Default\Effect</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Default\Header\EffekActioner.h">
+      <Filter>ヘッダー ファイル\Default\Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="Default\Header\Dialog.h">
+      <Filter>ヘッダー ファイル\Default\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="Default\Header\OnceWord.h">
+      <Filter>ヘッダー ファイル\Default\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="Default\Header\UIParts.h">
+      <Filter>ヘッダー ファイル\Default\Parts</Filter>
+    </ClInclude>
+    <ClInclude Include="Default\Header\ResourceFactory.h">
+      <Filter>ヘッダー ファイル\Default\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Default\Header\RoaderFile.h">
+      <Filter>ヘッダー ファイル\Default\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Default\Header\SceneMethod.h">
+      <Filter>ヘッダー ファイル\Default\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\LoadingScene.h">
+      <Filter>ヘッダー ファイル\Game\Scene\LoaderScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\ChangeScene.h">
+      <Filter>ヘッダー ファイル\Game\Scene\ChangeScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\TittleScene.h">
+      <Filter>ヘッダー ファイル\Game\Scene\TittleScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\PE_the_matchScene.h">
+      <Filter>ヘッダー ファイル\Game\Scene\PE_the_match</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\ShaderTest.h">
+      <Filter>ヘッダー ファイル\Game\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\TrumpCard.h">
+      <Filter>ヘッダー ファイル\Game\Accessory</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\GestChara.h">
+      <Filter>ヘッダー ファイル\Game\Accessory</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\Rule_effect.h">
+      <Filter>ヘッダー ファイル\Game\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\Rule_anime.h">
+      <Filter>ヘッダー ファイル\Game\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\PlateEffect.h">
+      <Filter>ヘッダー ファイル\Game\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\RoomScene.h">
+      <Filter>ヘッダー ファイル\Game\Scene\RoomScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\SelectRoomDialog.h">
+      <Filter>ヘッダー ファイル\Game\Scene\RoomScene</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\TrumpDefine.h">
+      <Filter>ヘッダー ファイル\Game\Accessory</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\SuperScene.h">
+      <Filter>ヘッダー ファイル\Default\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Default\Header\OBjectList.h">
+      <Filter>ヘッダー ファイル\Default\List</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Header\EffectParts.h">
+      <Filter>ヘッダー ファイル\Default\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Default\Header\UseEffect.h">
+      <Filter>ヘッダー ファイル\Default\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Default\SockPG\WinsockTCP.h">
+      <Filter>ヘッダー ファイル\Default\SockPG</Filter>
+    </ClInclude>
+    <ClInclude Include="Default\Header\TemplateEffectList.h">
+      <Filter>ヘッダー ファイル\Default\Effect</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Default\Shader\Shader.fx">
+      <Filter>リソース ファイル</Filter>
+    </None>
+  </ItemGroup>
+</Project>

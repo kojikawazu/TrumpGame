@@ -1,0 +1,395 @@
+﻿  AnimationEffect2D.cpp
+  BackGround.cpp
+  EffekActioner.cpp
+  GraphMethod.cpp
+  LoaderList.cpp
+  main.cpp
+  ModelMethod.cpp
+  OBjectList.cpp
+  OficalDialog.cpp
+  OnceWord.cpp
+  ResourceLoad.cpp
+  RoaderFile.cpp
+  SceneMethod.cpp
+  MyClient.cpp
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\SockPG\MyClient.cpp(37,20): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\SockPG\MyClient.cpp(39,23): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\SockPG\MyClient.cpp(40,12): warning C4996: 'gethostbyaddr': Use getnameinfo() or GetNameInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\SockPG\MyClient.cpp(164,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  MyServer.cpp
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\SockPG\MyServer.cpp(334,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  WinsockTCP.cpp
+  SuperDialog.cpp
+  TemplateEffectList.cpp
+  UseEffect.cpp
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(154,70): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(154,42): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(159,71): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(159,43): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(164,69): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(164,42): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(169,70): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(169,43): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(287,61): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(287,39): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(432,46): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(433,46): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(434,66): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(488,50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(583,41): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CharaSelectRoom.cpp
+  コードを生成中...
+  コンパイル中...
+  EnemyAI.cpp
+  GameScene.cpp
+  NetworkRoom.cpp
+  OftenUseDialog.cpp
+  PlateEffect.cpp
+  PlayerMapControl.cpp
+  PlayerPlate.cpp
+  RoomScene.cpp
+  Rule_anime.cpp
+  ChangeScene.cpp
+  GestChara.cpp
+  Judgement.cpp
+  JudgementCode.cpp
+  LoadingScene.cpp
+  PE_the_matchScene.cpp
+  Rule_effect.cpp
+  RunkEffect.cpp
+  ScoreMap.cpp
+  SelectRoomDialog.cpp
+  ShaderTest.cpp
+  コードを生成中...
+  コンパイル中...
+  SpecialAction.cpp
+  SuperScene.cpp
+  throwJudgement.cpp
+  TittleScene.cpp
+  TrumpCard.cpp
+  コードを生成中...
+     ライブラリ C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\Debug\NanairoProject.lib とオブジェクト C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\Debug\NanairoProject.exp を作成中
+SuperScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+throwJudgement.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+TittleScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+TrumpCard.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+ScoreMap.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+ShaderTest.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+SpecialAction.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+LoadingScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+PE_the_matchScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+Rule_effect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+RunkEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+ChangeScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+GestChara.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+Judgement.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+JudgementCode.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+PlayerMapControl.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+PlayerPlate.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+RoomScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+Rule_anime.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+GameScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+NetworkRoom.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+OftenUseDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+PlateEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+TemplateEffectList.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+UseEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+CharaSelectRoom.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+EnemyAI.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+OficalDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+OnceWord.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+SceneMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+SuperDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+AnimationEffect2D.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+BackGround.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+main.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+OBjectList.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(void)" (??0Vector2@NanairoLib@@QAE@XZ) は未解決です
+Rule_effect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+ScoreMap.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+TittleScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+PlayerPlate.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+RoomScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+LoadingScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+PE_the_matchScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+CharaSelectRoom.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+GameScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+NetworkRoom.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+OftenUseDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+AnimationEffect2D.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+GraphMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+OficalDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+TemplateEffectList.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(float,float)" (??0Vector2@NanairoLib@@QAE@MM@Z) は未解決です
+TrumpCard.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+SpecialAction.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+SuperScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+throwJudgement.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+TittleScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+RunkEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+ScoreMap.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+ShaderTest.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+JudgementCode.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+LoadingScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+PE_the_matchScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+Rule_effect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+Rule_anime.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+ChangeScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+GestChara.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+Judgement.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+PlateEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+PlayerMapControl.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+PlayerPlate.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+RoomScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+EnemyAI.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+GameScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+NetworkRoom.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+OftenUseDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+SuperDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+TemplateEffectList.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+UseEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+CharaSelectRoom.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+OBjectList.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+OficalDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+OnceWord.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+SceneMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+AnimationEffect2D.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+BackGround.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+GraphMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+main.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::~Vector2(void)" (??1Vector2@NanairoLib@@QAE@XZ) は未解決です
+SuperScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+throwJudgement.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+TittleScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+TrumpCard.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+ScoreMap.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+ShaderTest.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+SpecialAction.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+LoadingScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+PE_the_matchScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+Rule_effect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+RunkEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+ChangeScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+GestChara.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+Judgement.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+JudgementCode.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+PlayerMapControl.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+PlayerPlate.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+RoomScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+Rule_anime.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+GameScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+NetworkRoom.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+OftenUseDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+PlateEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+TemplateEffectList.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+UseEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+CharaSelectRoom.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+EnemyAI.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+OficalDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+OnceWord.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+SceneMethod.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+SuperDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+AnimationEffect2D.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+BackGround.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+main.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+OBjectList.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMinVector(void)" (?SetMinVector@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+SuperScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+throwJudgement.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+TittleScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+TrumpCard.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+ScoreMap.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+ShaderTest.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+SpecialAction.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+LoadingScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+PE_the_matchScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+Rule_effect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+RunkEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+ChangeScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+GestChara.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+Judgement.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+JudgementCode.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+PlayerMapControl.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+PlayerPlate.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+RoomScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+Rule_anime.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+GameScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+NetworkRoom.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+OftenUseDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+PlateEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+TemplateEffectList.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+UseEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+CharaSelectRoom.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+EnemyAI.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+OficalDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+OnceWord.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+SceneMethod.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+SuperDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+AnimationEffect2D.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+BackGround.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+main.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+OBjectList.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 &)" (??4Vector2@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+TittleScene.obj : error LNK2019: 未解決の外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) が関数 "public: virtual void __thiscall NanairoProject::TittleScene::Init(void)" (?Init@TittleScene@NanairoProject@@UAEXXZ) で参照されました
+TrumpCard.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+ShaderTest.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+SpecialAction.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+SuperScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+throwJudgement.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+Rule_effect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+RunkEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+ScoreMap.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+Judgement.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+JudgementCode.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+LoadingScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+PE_the_matchScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+RoomScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+Rule_anime.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+ChangeScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+GestChara.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+OftenUseDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+PlateEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+PlayerMapControl.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+PlayerPlate.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+CharaSelectRoom.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+EnemyAI.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+GameScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+NetworkRoom.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+SceneMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+SuperDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+TemplateEffectList.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+UseEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+OficalDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+OnceWord.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+ResourceLoad.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+RoaderFile.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+LoaderList.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+main.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+ModelMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+OBjectList.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+AnimationEffect2D.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+BackGround.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+EffekActioner.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+GraphMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::Vector3(void)" (??0Vector3@NanairoLib@@QAE@XZ) は未解決です
+TittleScene.obj : error LNK2019: 未解決の外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) が関数 "public: virtual void __thiscall NanairoProject::TittleScene::Init(void)" (?Init@TittleScene@NanairoProject@@UAEXXZ) で参照されました
+TrumpCard.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+ShaderTest.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+SpecialAction.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+SuperScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+throwJudgement.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+Rule_effect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+RunkEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+ScoreMap.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+Judgement.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+JudgementCode.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+LoadingScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+PE_the_matchScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+RoomScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+Rule_anime.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+ChangeScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+GestChara.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+OftenUseDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+PlateEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+PlayerMapControl.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+PlayerPlate.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+CharaSelectRoom.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+EnemyAI.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+GameScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+NetworkRoom.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+SceneMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+SuperDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+TemplateEffectList.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+UseEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+OficalDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+OnceWord.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+ResourceLoad.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+RoaderFile.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+LoaderList.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+main.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+ModelMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+OBjectList.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+AnimationEffect2D.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+BackGround.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+EffekActioner.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+GraphMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector3::~Vector3(void)" (??1Vector3@NanairoLib@@QAE@XZ) は未解決です
+Rule_anime.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetPercentVector(float,float)" (?SetPercentVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+Rule_effect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetPercentVector(float,float)" (?SetPercentVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+RunkEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetPercentVector(float,float)" (?SetPercentVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+ScoreMap.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetPercentVector(float,float)" (?SetPercentVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+BackGround.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetPercentVector(float,float)" (?SetPercentVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+UseEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetPercentVector(float,float)" (?SetPercentVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+PlateEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetPercentVector(float,float)" (?SetPercentVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+PlayerPlate.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetPercentVector(float,float)" (?SetPercentVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+BackGround.obj : error LNK2019: 未解決の外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMaxScreen(void)" (?SetMaxScreen@Vector2@NanairoLib@@QAEAAV12@XZ) が関数 "public: virtual void __thiscall MYGAME::BackGround_2D::Init(void)" (?Init@BackGround_2D@MYGAME@@UAEXXZ) で参照されました
+UseEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMaxScreen(void)" (?SetMaxScreen@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+Rule_anime.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetMaxScreen(void)" (?SetMaxScreen@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+EffekActioner.obj : error LNK2019: 未解決の外部シンボル "public: struct D3DXVECTOR3 __thiscall NanairoLib::Vector3::SetD3DVector3(void)" (?SetD3DVector3@Vector3@NanairoLib@@QAE?AUD3DXVECTOR3@@XZ) が関数 "public: void __thiscall MYGAME::EffekActioner::EfekObjectUpdate(void)" (?EfekObjectUpdate@EffekActioner@MYGAME@@QAEXXZ) で参照されました
+PlayerPlate.obj : error LNK2019: 未解決の外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(struct D3DXVECTOR2 &)" (??0Vector2@NanairoLib@@QAE@AAUD3DXVECTOR2@@@Z) が関数 __unwindfunclet$??0PlayerPlate@NanairoProject@@QAE@XZ$4 で参照されました
+Judgement.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(struct D3DXVECTOR2 &)" (??0Vector2@NanairoLib@@QAE@AAUD3DXVECTOR2@@@Z) は未解決です
+Rule_effect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(struct D3DXVECTOR2 &)" (??0Vector2@NanairoLib@@QAE@AAUD3DXVECTOR2@@@Z) は未解決です
+TrumpCard.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(struct D3DXVECTOR2 &)" (??0Vector2@NanairoLib@@QAE@AAUD3DXVECTOR2@@@Z) は未解決です
+GraphMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(struct D3DXVECTOR2 &)" (??0Vector2@NanairoLib@@QAE@AAUD3DXVECTOR2@@@Z) は未解決です
+OficalDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(struct D3DXVECTOR2 &)" (??0Vector2@NanairoLib@@QAE@AAUD3DXVECTOR2@@@Z) は未解決です
+OnceWord.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(struct D3DXVECTOR2 &)" (??0Vector2@NanairoLib@@QAE@AAUD3DXVECTOR2@@@Z) は未解決です
+SuperDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector2::Vector2(struct D3DXVECTOR2 &)" (??0Vector2@NanairoLib@@QAE@AAUD3DXVECTOR2@@@Z) は未解決です
+SuperScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::~Vector4(void)" (??1Vector4@NanairoLib@@QAE@XZ) は未解決です
+TittleScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::~Vector4(void)" (??1Vector4@NanairoLib@@QAE@XZ) は未解決です
+TrumpCard.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::~Vector4(void)" (??1Vector4@NanairoLib@@QAE@XZ) は未解決です
+Rule_anime.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::~Vector4(void)" (??1Vector4@NanairoLib@@QAE@XZ) は未解決です
+PE_the_matchScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::~Vector4(void)" (??1Vector4@NanairoLib@@QAE@XZ) は未解決です
+ScoreMap.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::~Vector4(void)" (??1Vector4@NanairoLib@@QAE@XZ) は未解決です
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::~Vector4(void)" (??1Vector4@NanairoLib@@QAE@XZ) は未解決です
+GraphMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::~Vector4(void)" (??1Vector4@NanairoLib@@QAE@XZ) は未解決です
+OficalDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::~Vector4(void)" (??1Vector4@NanairoLib@@QAE@XZ) は未解決です
+SceneMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::~Vector4(void)" (??1Vector4@NanairoLib@@QAE@XZ) は未解決です
+UseEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::~Vector4(void)" (??1Vector4@NanairoLib@@QAE@XZ) は未解決です
+ScoreMap.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+TrumpCard.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+GestChara.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+LoadingScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+Rule_effect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+RunkEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+OftenUseDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+PlateEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+PlayerPlate.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+Rule_anime.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+OficalDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+OnceWord.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+SuperDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+UseEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SetVector(float,float)" (?SetVector@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+OficalDialog.obj : error LNK2019: 未解決の外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::Add(class NanairoLib::Vector2 &)" (?Add@Vector2@NanairoLib@@QAEAAV12@AAV12@@Z) が関数 "protected: virtual void __thiscall MYGAME::ExpansionDialog::FadeIn(void)" (?FadeIn@ExpansionDialog@MYGAME@@MAEXXZ) で参照されました
+UseEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::Add(class NanairoLib::Vector2 &)" (?Add@Vector2@NanairoLib@@QAEAAV12@AAV12@@Z) は未解決です
+PlateEffect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::Add(class NanairoLib::Vector2 &)" (?Add@Vector2@NanairoLib@@QAEAAV12@AAV12@@Z) は未解決です
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::Add(class NanairoLib::Vector2 &)" (?Add@Vector2@NanairoLib@@QAEAAV12@AAV12@@Z) は未解決です
+OficalDialog.obj : error LNK2019: 未解決の外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::Sub(class NanairoLib::Vector2 &)" (?Sub@Vector2@NanairoLib@@QAEAAV12@AAV12@@Z) が関数 "protected: virtual void __thiscall MYGAME::ExpansionDialog::FadeOut(void)" (?FadeOut@ExpansionDialog@MYGAME@@MAEXXZ) で参照されました
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::Sub(class NanairoLib::Vector2 &)" (?Sub@Vector2@NanairoLib@@QAEAAV12@AAV12@@Z) は未解決です
+OficalDialog.obj : error LNK2019: 未解決の外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SubCut(void)" (?SubCut@Vector2@NanairoLib@@QAEAAV12@XZ) が関数 "protected: virtual void __thiscall MYGAME::YesNoDialog::FadeOut(void)" (?FadeOut@YesNoDialog@MYGAME@@MAEXXZ) で参照されました
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::SubCut(void)" (?SubCut@Vector2@NanairoLib@@QAEAAV12@XZ) は未解決です
+OficalDialog.obj : error LNK2019: 未解決の外部シンボル "public: struct D3DXVECTOR2 __thiscall NanairoLib::Vector2::SetD3DVector2(void)" (?SetD3DVector2@Vector2@NanairoLib@@QAE?AUD3DXVECTOR2@@XZ) が関数 "public: virtual void __thiscall MYGAME::WaitBackDialog::Draw2D(void)" (?Draw2D@WaitBackDialog@MYGAME@@UAEXXZ) で参照されました
+SuperDialog.obj : error LNK2001: 外部シンボル "public: struct D3DXVECTOR2 __thiscall NanairoLib::Vector2::SetD3DVector2(void)" (?SetD3DVector2@Vector2@NanairoLib@@QAE?AUD3DXVECTOR2@@XZ) は未解決です
+PlayerPlate.obj : error LNK2001: 外部シンボル "public: struct D3DXVECTOR2 __thiscall NanairoLib::Vector2::SetD3DVector2(void)" (?SetD3DVector2@Vector2@NanairoLib@@QAE?AUD3DXVECTOR2@@XZ) は未解決です
+TittleScene.obj : error LNK2019: 未解決の外部シンボル "public: __thiscall NanairoLib::Vector4::Vector4(float,float,float,float)" (??0Vector4@NanairoLib@@QAE@MMMM@Z) が関数 "public: virtual void __thiscall NanairoProject::TittleScene::Init(void)" (?Init@TittleScene@NanairoProject@@UAEXXZ) で参照されました
+TrumpCard.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::Vector4(float,float,float,float)" (??0Vector4@NanairoLib@@QAE@MMMM@Z) は未解決です
+PE_the_matchScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::Vector4(float,float,float,float)" (??0Vector4@NanairoLib@@QAE@MMMM@Z) は未解決です
+ScoreMap.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::Vector4(float,float,float,float)" (??0Vector4@NanairoLib@@QAE@MMMM@Z) は未解決です
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::Vector4(float,float,float,float)" (??0Vector4@NanairoLib@@QAE@MMMM@Z) は未解決です
+SuperScene.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::Vector4(float,float,float,float)" (??0Vector4@NanairoLib@@QAE@MMMM@Z) は未解決です
+OficalDialog.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::Vector4(float,float,float,float)" (??0Vector4@NanairoLib@@QAE@MMMM@Z) は未解決です
+SceneMethod.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::Vector4(float,float,float,float)" (??0Vector4@NanairoLib@@QAE@MMMM@Z) は未解決です
+UseEffect.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::Vector4(float,float,float,float)" (??0Vector4@NanairoLib@@QAE@MMMM@Z) は未解決です
+Rule_anime.obj : error LNK2001: 外部シンボル "public: __thiscall NanairoLib::Vector4::Vector4(float,float,float,float)" (??0Vector4@NanairoLib@@QAE@MMMM@Z) は未解決です
+OnceWord.obj : error LNK2019: 未解決の外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::operator=(class NanairoLib::Vector2 const *)" (??4Vector2@NanairoLib@@QAEAAV01@PBV01@@Z) が関数 "public: void __thiscall MYGAME::OnceWord::SetObject(class NanairoLib::Vector2 const *,float,class NanairoLib::Vector2 const *)" (?SetObject@OnceWord@MYGAME@@QAEXPBVVector2@NanairoLib@@M0@Z) で参照されました
+SuperDialog.obj : error LNK2019: 未解決の外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::ChangeAbs(void)" (?ChangeAbs@Vector2@NanairoLib@@QAEAAV12@XZ) が関数 "public: bool __thiscall MYGAME::SuperDialog::IsAtack_circle(class NanairoLib::Vector2 const *,class NanairoLib::Vector2 const *)" (?IsAtack_circle@SuperDialog@MYGAME@@QAE_NPBVVector2@NanairoLib@@0@Z) で参照されました
+UseEffect.obj : error LNK2019: 未解決の外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::Add(float,float)" (?Add@Vector2@NanairoLib@@QAEAAV12@MM@Z) が関数 "public: void __thiscall MYGAME::FireflowerEffect::SetObject(class NanairoLib::Vector2 &)" (?SetObject@FireflowerEffect@MYGAME@@QAEXAAVVector2@NanairoLib@@@Z) で参照されました
+Rule_effect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::Add(float,float)" (?Add@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+ScoreMap.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::Add(float,float)" (?Add@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+TittleScene.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::Add(float,float)" (?Add@Vector2@NanairoLib@@QAEAAV12@MM@Z) は未解決です
+OftenUseDialog.obj : error LNK2019: 未解決の外部シンボル "public: class NanairoLib::Vector4 & __thiscall NanairoLib::Vector4::operator=(class NanairoLib::Vector4 &)" (??4Vector4@NanairoLib@@QAEAAV01@AAV01@@Z) が関数 "public: void __thiscall MYGAME::OnceWord::SetColor(class NanairoLib::Vector4 &)" (?SetColor@OnceWord@MYGAME@@QAEXAAVVector4@NanairoLib@@@Z) で参照されました
+Rule_effect.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector4 & __thiscall NanairoLib::Vector4::operator=(class NanairoLib::Vector4 &)" (??4Vector4@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+ScoreMap.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector4 & __thiscall NanairoLib::Vector4::operator=(class NanairoLib::Vector4 &)" (??4Vector4@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+SelectRoomDialog.obj : error LNK2001: 外部シンボル "public: class NanairoLib::Vector4 & __thiscall NanairoLib::Vector4::operator=(class NanairoLib::Vector4 &)" (??4Vector4@NanairoLib@@QAEAAV01@AAV01@@Z) は未解決です
+ScoreMap.obj : error LNK2019: 未解決の外部シンボル "public: class NanairoLib::Vector2 & __thiscall NanairoLib::Vector2::Sub(float,float)" (?Sub@Vector2@NanairoLib@@QAEAAV12@MM@Z) が関数 "private: void __thiscall NanairoProject::ScoreMap::scaleFadeOut(void)" (?scaleFadeOut@ScoreMap@NanairoProject@@AAEXXZ) で参照されました
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\Debug\NanairoProject.exe : fatal error LNK1120: 23 件の未解決の外部参照

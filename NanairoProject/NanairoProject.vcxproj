@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Default\AnimationEffect2D.cpp" />
+    <ClCompile Include="Default\BackGround.cpp" />
+    <ClCompile Include="Default\EffekActioner.cpp" />
+    <ClCompile Include="Default\GraphMethod.cpp" />
+    <ClCompile Include="Default\LoaderList.cpp" />
+    <ClCompile Include="Default\main.cpp" />
+    <ClCompile Include="Default\ModelMethod.cpp" />
+    <ClCompile Include="Default\OBjectList.cpp" />
+    <ClCompile Include="Default\OficalDialog.cpp" />
+    <ClCompile Include="Default\OnceWord.cpp" />
+    <ClCompile Include="Default\ResourceLoad.cpp" />
+    <ClCompile Include="Default\RoaderFile.cpp" />
+    <ClCompile Include="Default\SceneMethod.cpp" />
+    <ClCompile Include="Default\SockPG\MyClient.cpp" />
+    <ClCompile Include="Default\SockPG\MyServer.cpp" />
+    <ClCompile Include="Default\SockPG\WinsockTCP.cpp" />
+    <ClCompile Include="Default\SuperDialog.cpp" />
+    <ClCompile Include="Default\TemplateEffectList.cpp" />
+    <ClCompile Include="Default\UseEffect.cpp" />
+    <ClCompile Include="Source\CharaSelectRoom.cpp" />
+    <ClCompile Include="Source\EnemyAI.cpp" />
+    <ClCompile Include="Source\GameScene.cpp" />
+    <ClCompile Include="Source\NetworkRoom.cpp" />
+    <ClCompile Include="Source\OftenUseDialog.cpp" />
+    <ClCompile Include="Source\PlateEffect.cpp" />
+    <ClCompile Include="Source\PlayerMapControl.cpp" />
+    <ClCompile Include="Source\PlayerPlate.cpp" />
+    <ClCompile Include="Source\RoomScene.cpp" />
+    <ClCompile Include="Source\Rule_anime.cpp" />
+    <ClCompile Include="Source\ChangeScene.cpp" />
+    <ClCompile Include="Source\GestChara.cpp" />
+    <ClCompile Include="Source\Judgement.cpp" />
+    <ClCompile Include="Source\JudgementCode.cpp" />
+    <ClCompile Include="Source\LoadingScene.cpp" />
+    <ClCompile Include="Source\PE_the_matchScene.cpp" />
+    <ClCompile Include="Source\Rule_effect.cpp" />
+    <ClCompile Include="Source\RunkEffect.cpp" />
+    <ClCompile Include="Source\ScoreMap.cpp" />
+    <ClCompile Include="Source\SelectRoomDialog.cpp" />
+    <ClCompile Include="Source\ShaderTest.cpp" />
+    <ClCompile Include="Source\SpecialAction.cpp" />
+    <ClCompile Include="Source\SuperScene.cpp" />
+    <ClCompile Include="Source\throwJudgement.cpp" />
+    <ClCompile Include="Source\TittleScene.cpp" />
+    <ClCompile Include="Source\TrumpCard.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Default\Header\Dialog.h" />
+    <ClInclude Include="Default\Header\EffekActioner.h" />
+    <ClInclude Include="Default\Header\OBjectList.h" />
+    <ClInclude Include="Default\Header\OnceWord.h" />
+    <ClInclude Include="Default\Header\ResourceFactory.h" />
+    <ClInclude Include="Default\Header\RoaderFile.h" />
+    <ClInclude Include="Default\Header\SceneMethod.h" />
+    <ClInclude Include="Default\Header\TemplateEffectList.h" />
+    <ClInclude Include="Default\Header\UIParts.h" />
+    <ClInclude Include="Default\Header\UseEffect.h" />
+    <ClInclude Include="Default\SockPG\WinsockTCP.h" />
+    <ClInclude Include="Source\Header\ChangeScene.h" />
+    <ClInclude Include="Source\Header\EffectParts.h" />
+    <ClInclude Include="Source\Header\GestChara.h" />
+    <ClInclude Include="Source\Header\LoadingScene.h" />
+    <ClInclude Include="Source\Header\PE_the_matchScene.h" />
+    <ClInclude Include="Source\Header\PlateEffect.h" />
+    <ClInclude Include="Source\Header\RoomScene.h" />
+    <ClInclude Include="Source\Header\Rule_anime.h" />
+    <ClInclude Include="Source\Header\Rule_effect.h" />
+    <ClInclude Include="Source\Header\SelectRoomDialog.h" />
+    <ClInclude Include="Source\Header\ShaderTest.h" />
+    <ClInclude Include="Source\Header\SuperScene.h" />
+    <ClInclude Include="Source\Header\TittleScene.h" />
+    <ClInclude Include="Source\Header\TrumpCard.h" />
+    <ClInclude Include="Source\Header\TrumpDefine.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Default\Shader\Shader.fx" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{8542DE52-43B0-4BAC-BF57-28AA4E320B7A}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>NanairoProject</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(DXSDK_DIR)\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(DXSDK_DIR)\Lib\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IncludePath>$(DXSDK_DIR)\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(DXSDK_DIR)\Lib\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>./Source/Header;./Default/Header;./Default/SockPG;../MyDirectX/Source;../MusicFactory/Source;../EffekseerFactory/Dll;../EffekseerFactory/Source;../DirectStandard/Source;../DirectDrawer/Source;../DirectDevice/Source/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>./Source/Header;./Default/Header;./Default/SockPG;../../../MyDirectX/MyDirectX/Header;../../../MusicFactory/MusicFactory/Header;../../../EffekseerFactory/EffekseerFactory/Dll;../../../EffekseerFactory/EffekseerFactory/Header;../../../DirectStandard/DirectStandard/Header;../../../DirectDrawer/DirectDrawer/Header;../../../DirectDevice/DirectDevice/Header;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>../../../DIrectStandard/Release;../../../MyDirectX/Release;../../../DirectDrawer/Release;../../../DirectDevice/Release;../../../MusicFactory/Release;../../../EffekseerFactory/Release;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>DirectStandard.lib;MyDirectX.lib;DirectDrawer.lib;DirectDevice.lib;MusicFactory.lib;EffekseerFactory.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

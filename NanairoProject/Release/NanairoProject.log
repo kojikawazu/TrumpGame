@@ -1,0 +1,73 @@
+﻿  AnimationEffect2D.cpp
+  BackGround.cpp
+  EffekActioner.cpp
+  GraphMethod.cpp
+  LoaderList.cpp
+  main.cpp
+  ModelMethod.cpp
+  OBjectList.cpp
+  OficalDialog.cpp
+  OnceWord.cpp
+  ResourceLoad.cpp
+  RoaderFile.cpp
+  SceneMethod.cpp
+  MyClient.cpp
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\SockPG\MyClient.cpp(37,20): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\SockPG\MyClient.cpp(39,23): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\SockPG\MyClient.cpp(40,12): warning C4996: 'gethostbyaddr': Use getnameinfo() or GetNameInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\SockPG\MyClient.cpp(164,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  MyServer.cpp
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\SockPG\MyServer.cpp(334,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  WinsockTCP.cpp
+  SuperDialog.cpp
+  TemplateEffectList.cpp
+  UseEffect.cpp
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(154,70): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(154,42): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(159,71): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(159,43): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(164,69): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(164,42): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(169,70): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(169,43): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(287,61): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(287,39): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(432,46): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(433,46): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(434,66): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(488,50): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\NanairoProject\Default\UseEffect.cpp(583,41): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CharaSelectRoom.cpp
+  コンパイル中...
+  EnemyAI.cpp
+  GameScene.cpp
+  NetworkRoom.cpp
+  OftenUseDialog.cpp
+  PlateEffect.cpp
+  PlayerMapControl.cpp
+  PlayerPlate.cpp
+  RoomScene.cpp
+  Rule_anime.cpp
+  ChangeScene.cpp
+  GestChara.cpp
+  Judgement.cpp
+  JudgementCode.cpp
+  LoadingScene.cpp
+  PE_the_matchScene.cpp
+  Rule_effect.cpp
+  RunkEffect.cpp
+  ScoreMap.cpp
+  SelectRoomDialog.cpp
+  ShaderTest.cpp
+  コンパイル中...
+  SpecialAction.cpp
+  SuperScene.cpp
+  throwJudgement.cpp
+  TittleScene.cpp
+  TrumpCard.cpp
+     ライブラリ C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\Release\NanairoProject.lib とオブジェクト C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\Release\NanairoProject.exp を作成中
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 3389 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  NanairoProject.vcxproj -> C:\Users\nanai\Desktop\プロジェクト\Gameアプリ\ライブラリ\大富豪\TrumpGame準完\Release\NanairoProject.exe
